@@ -1,0 +1,40 @@
+#marron{
+    background-color: brown;
+}
+#marron h4{
+    color: white;
+}
+
+p{
+    text-align: center;
+}
+
+#left{
+    background-color: orange;
+}
+
+#topMen{
+    background-color: peru;
+}
+
+#claro{
+    background-color: whitesmoke;
+}
+
+#rojo{
+    background-color: red;
+}
+
+#azul{
+    background-color: blue;
+}
+
+#todo{
+    align-items: stretch !important;
+}
+
+@media only screen and (max-width: 768px) {
+    #left {
+        display: none;
+    }
+}
