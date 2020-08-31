@@ -1,7 +1,7 @@
 #marron{
-    background-color: brown;
+    background-color: #86796F;
 }
-#marron h4{
+#marron p{
     color: white;
 }
 
@@ -14,23 +14,24 @@ p{
 }
 
 #topMen{
-    background-color: peru;
+    background-color: #C39182;
 }
 
 #claro{
-    background-color: whitesmoke;
+    background-color: #F2F2F2;
 }
 
 #rojo{
-    background-color: red;
+    background-color: #C5697A;
 }
 
 #azul{
-    background-color: blue;
+    background-color: #29B1C1;
 }
 
 #todo{
     align-items: stretch !important;
+    height: max-content !important;
 }
 
 @media only screen and (max-width: 768px) {
